@@ -1,6 +1,10 @@
 # Structural-Topic-Modeling-in-R
 
-I have written two Medium articles on this topic
+# Code
+https://github.com/trajceskijovan/Structural-Topic-Modeling-in-R/blob/main/Topical_Model_Jovan_Trajceski_May%202021.R
+
+# Medium Articles
+I have written two Medium articles on this topic.
 
 Structural Topic Modeling with R — Part I:
 https://jovantrajceski.medium.com/structural-topic-modeling-with-r-part-i-2da2b353d362
