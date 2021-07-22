@@ -8,7 +8,6 @@ https://jovantrajceski.medium.com/structural-topic-modeling-with-r-part-i-2da2b3
 
 ![](1.png)
 
-
 ![](2.png)
 
 
