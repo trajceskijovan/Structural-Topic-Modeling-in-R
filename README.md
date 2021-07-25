@@ -7,6 +7,10 @@ Structural topic modeling (STM) has been increasing in popularity over recent ye
 
 So we can easily say, STM = LDA + metadata.
 
+# Dataset:
+
+We will be using the Daily Financial News dataset published on Kaggle. The dataset includes approximately 2 million articles for 6000 stocks from 2009–2020.
+
 
 # Code
 https://github.com/trajceskijovan/Structural-Topic-Modeling-in-R/blob/main/Topical_Model_Jovan_Trajceski_May%202021.R
