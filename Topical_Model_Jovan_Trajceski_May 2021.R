@@ -290,4 +290,7 @@ plot(Third_STM, type="hist")
 topicQuality(model=Third_STM, documents=docs)
 
 
-
+# This code is free to use for academic purposes only, provided that a proper reference is cited. 
+# This code comes without technical support of any kind. 
+# Under no circumstances will the author be held responsible for any use of this code in any way.
+       
