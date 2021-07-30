@@ -87,10 +87,17 @@ I will showcase three approaches in finding an optimal number of topics (k) that
 **Approach 3**: “Lee Mimno” via stm where k=0 and iterations = 75
 
 
+Approach 1 takes approximately 23 minutes on i7 CPU. The guideline is usually where the held-out likelihood is highest, and the residuals are lowest. It looks like 17 optimal topics under this approach.
+
+Approach 1: finding an optimal topic number.
+
+![](samples/economist8.png)
 
 
+Approach 2 takes approximately 6 minutes. It looks like 20 optimal topics under this approach.
 
-
+![](samples/economist9.png)
+![](samples/economist10.png)
 
 
 
