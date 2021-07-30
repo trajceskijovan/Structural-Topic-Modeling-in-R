@@ -14,8 +14,8 @@ https://github.com/trajceskijovan/Structural-Topic-Modeling-in-R/blob/main/Topic
 # Medium Articles
 I have written two Medium articles on this topic.
 
-Structural Topic Modeling with R — Part I: https://jovantrajceski.medium.com/structural-topic-modeling-with-r-part-i-2da2b353d362
-Structural Topic Modeling with R — Part II:https://jovantrajceski.medium.com/structural-topic-modeling-with-r-part-ii-462e6e07328
+Structural Topic Modeling with R - Part I: https://jovantrajceski.medium.com/structural-topic-modeling-with-r-part-i-2da2b353d362
+Structural Topic Modeling with R - Part II: https://jovantrajceski.medium.com/structural-topic-modeling-with-r-part-ii-462e6e07328
 
 # Dataset:
 We will be using the Daily Financial News dataset published on Kaggle. The dataset includes approximately 2 million articles for 6000 stocks from 2009–2020.
