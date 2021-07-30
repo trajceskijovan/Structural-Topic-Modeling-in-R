@@ -55,8 +55,9 @@ Our corpus now has 882 documents, 103 terms, and 2334 tokens:
 
 ![](samples/economist3.png)
 
+This is what we have currently under our data panel in RStudi4.
 
-
+![](samples/economist4.png)
 
 
 
