@@ -55,9 +55,44 @@ Our corpus now has 882 documents, 103 terms, and 2334 tokens:
 
 ![](samples/economist3.png)
 
-This is what we have currently under our data panel in RStudi4.
+This is what we have currently under our data panel in RStudio.
 
 ![](samples/economist4.png)
+
+
+Let`s run our initial topic model [prevalence =~ publisher + date] at 15 topics (without finding optimal k), see how long it takes to run, and what the output looks like.
+It took 2 seconds for our first model to run. The model was terminated before convergence was reached.
+
+![](samples/economist5.png)
+
+In our first STM plot, we can see topic 8 took the lead.
+
+![](samples/economist6.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
