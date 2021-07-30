@@ -121,14 +121,62 @@ Top words per topic - a sample of the console output is provided below:
 ![](samples/economist13.png)
 
 
-We can find the top documents associated with a topic with the findThoughts function. Top 2 paragraps for Topic 1 to 10
+We can find the top documents associated with a topic with the findThoughts function. Top 2 paragraps for Topic 1 to 10.
 
 ![](samples/economist14.png)
 
 
-We can look at multiple, or all, topics this way as well. For this we’ll just look at the shorttext. Top 3 paragraps for Topic #1 to 15
+We can look at multiple, or all, topics this way as well. For this we’ll just look at the shorttext. Top 3 paragraps for Topic 1 to 15.
 
 ![](samples/economist15.png)
+
+
+Sometimes, I find it useful to see the topic correlation. For this purpose, you can leverage the code below:
+
+![](samples/economist16.png)
+
+
+
+At this point, it would be a good idea to look at the convergence plot.
+
+![](samples/economist17.png)
+
+
+We can also deploy the simple wordcloud library to review word distribution per specific topic. Wordcloud:topic 17 with word distribution.
+
+![](samples/economist18.png)
+
+
+Now, we will jump into working with meta-data. First, we will set up the estimated effect and take a look at the publishers' effect. Please note, we need to add a small prior for numerical stability. Effect of Zacks vs. Seeking Alpha publishers.
+
+![](samples/economist19.png)
+
+
+We can take a look at another set of publishers and compare the estimated effect. Effect of ‘TalkMarkets’ vs. ‘Investopedia’ publishers.
+
+![](samples/economist20.png)
+
+
+We can also compare two topics or a single topic across two covariate levels to see how the terms differ. Comparing content in topic 17 and topic 12.
+
+![](samples/economist21.png)
+
+
+Next, we will review the topic proportions within the documents for 20 topics.
+
+![](samples/economist22.png)
+
+
+Lastly, in this series of structural topic modeling in R, we will cover the topic quality and plot them with a topic number.
+
+![](samples/economist23.png)
+
+
+
+
+
+
+
 
 
 
