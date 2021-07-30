@@ -35,14 +35,14 @@ Let's randomly sample 1,000 rows out of the loaded dataset (feel free to reduce 
 
 We will apply few preprocessing steps to our sample, including:
 
-• Convert to lower case
-• Remove Stop-Words
-• Remove numbers
-• Remove punctuation
-• Words shorter than the minimum word length are discarded
-• Stemming
-• Replace all non-alphanumeric characters
-• Create output
+1. Convert to lower case
+2. Remove Stop-Words
+3. Remove numbers
+4. Remove punctuation
+5. Words shorter than the minimum word length are discarded
+6. Stemming
+7. Replace all non-alphanumeric characters
+8. Create output
 
 
 The processed object is a list of four objects: documents, vocab, meta, and docs removed. The document object is a list, one per document, of 2-row matrices; the first row indicates the index of a word found in the document, and the second row indicates the (nonzero) counts. If preprocessing causes any documents to be empty, they are removed, as are the corresponding rows of the meta-object.
