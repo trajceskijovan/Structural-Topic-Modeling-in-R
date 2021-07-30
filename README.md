@@ -89,7 +89,7 @@ I will showcase three approaches in finding an optimal number of topics (k) that
 
 Approach 1 takes approximately 23 minutes on i7 CPU. The guideline is usually where the held-out likelihood is highest, and the residuals are lowest. It looks like 17 optimal topics under this approach.
 
-Approach 1: finding an optimal topic number.
+Approach 1: finding an optimal topic number:
 
 ![](samples/economist8.png)
 
@@ -107,7 +107,7 @@ Approach 3 takes approximately 29 seconds. It looks like 27 optimal topics under
 
 Based on the above, I have decided to run the final STM on 20 topics. The final STM runs in about 20 seconds.
 
-Final Structural Topic Model.
+Final Structural Topic Model:
 ![](samples/economist12.png)
 
 
