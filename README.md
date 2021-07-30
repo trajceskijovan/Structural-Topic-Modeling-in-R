@@ -116,19 +116,19 @@ Let’s see what our model came up with! The following tools can be used to eval
 2. findThoughts gives the top documents for each topic (the documents with the highest proportion of each topic).
 
 
-A sample of the console output is provided below:
+Top words per topic - a sample of the console output is provided below:
 
 ![](samples/economist13.png)
 
 
-Console output for top documents by topic:
+We can find the top documents associated with a topic with the findThoughts function. Top 2 paragraps for Topic 1 to 10
 
 ![](samples/economist14.png)
 
 
+We can look at multiple, or all, topics this way as well. For this we’ll just look at the shorttext. Top 3 paragraps for Topic #1 to 15
 
-
-
+![](samples/economist15.png)
 
 
 
