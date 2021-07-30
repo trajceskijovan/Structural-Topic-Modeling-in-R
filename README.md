@@ -76,7 +76,15 @@ The plot of our second STM — we can see topic 17 is in the lead.
 
 ![](samples/economist7.png)
 
+Next, we need to identify the **number of optimal topics**.
 
+I will showcase three approaches in finding an optimal number of topics (k) that we can apply to the final version of our STM:
+
+Approach 1: use “searchK” function and look through 10 to 30 topics; no other parameters set
+
+Approach 2: use “searchK” function, search through 10, 20, 30, 40, 50, 60, 70 k tries, N= 500 and 75 iterations
+
+Approach 3: “Lee Mimno” via stm where k=0 and iterations = 75
 
 
 
