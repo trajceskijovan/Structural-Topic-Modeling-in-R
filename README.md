@@ -100,8 +100,15 @@ Approach 2 takes approximately 6 minutes. It looks like 20 optimal topics under 
 ![](samples/economist10.png)
 
 
+Approach 3 takes approximately 29 seconds. It looks like 27 optimal topics under this approach.
+
+![](samples/economist11.png)
 
 
+Based on the above, I have decided to run the final STM on 20 topics. The final STM runs in about 20 seconds.
+
+Final Structural Topic Model.
+![](samples/economist12.png)
 
 
 
