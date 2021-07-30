@@ -34,6 +34,7 @@ Let's randomly sample 1,000 rows out of the loaded dataset (feel free to reduce 
 ![](samples/economist2.png)
 
 We will apply few preprocessing steps to our sample, including:
+
 • Convert to lower case
 • Remove Stop-Words
 • Remove numbers
