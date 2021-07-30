@@ -21,12 +21,15 @@ Structural Topic Modeling with R - Part II: https://jovantrajceski.medium.com/st
 We will be using the Daily Financial News dataset published on Kaggle. The dataset includes approximately 2 million articles for 6000 stocks from 2009–2020.
 
 There is an R package called stm, which provides almost everything we need for our first Structural Topic Model.
+
 ![](samples/0.png)
 
 Original dataset overview:
+
 ![](samples/economist1.png)
 
 Let's randomly sample 1,000 rows out of the loaded dataset (feel free to reduce the sample size if your laptop can't handle it).
+
 ![](samples/economist2.png)
 
 We will apply few preprocessing steps to our sample, including:
@@ -47,6 +50,7 @@ Let's filter out terms that do not appear in more than ten documents (our thresh
 Also, we will level check for “publisher” and “stock” columns before proceeding with the structural topic model.
 
 Our corpus now has 882 documents, 103 terms, and 2334 tokens:
+
 ![](samples/economist3.png)
 
 
