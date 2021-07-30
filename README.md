@@ -111,6 +111,10 @@ Final Structural Topic Model:
 ![](samples/economist12.png)
 
 
+Let’s see what our model came up with! The following tools can be used to evaluate the model:
+1. labelTopics gives the top words for each topic,
+2. findThoughts gives the top documents for each topic (the documents with the highest proportion of each topic).
+
 
 
 
