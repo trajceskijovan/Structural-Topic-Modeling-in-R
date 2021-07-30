@@ -116,10 +116,14 @@ Let’s see what our model came up with! The following tools can be used to eval
 2. findThoughts gives the top documents for each topic (the documents with the highest proportion of each topic).
 
 
+A sample of the console output is provided below:
+
+![](samples/economist13.png)
 
 
+Console output for top documents by topic:
 
-
+![](samples/economist14.png)
 
 
 
