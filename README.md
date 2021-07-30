@@ -70,8 +70,11 @@ In our first STM plot, we can see topic 8 took the lead.
 ![](samples/economist6.png)
 
 
+We can run a second preliminary topic model [prevalence =~ publisher + date] at 18 topics (without finding optimal k) but add 75 iterations, see how long it takes to run, and review its respective output. Both STM models produce meaningful topics and keywords.
 
+The plot of our second STM — we can see topic 17 is in the lead.
 
+![](samples/economist7.png)
 
 
 
