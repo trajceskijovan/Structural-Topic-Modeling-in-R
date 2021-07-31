@@ -131,7 +131,7 @@ We can look at multiple, or all, topics this way as well. For this we’ll just 
 ![](samples/economist15.png)
 
 
-Sometimes, I find it useful to see the topic correlation. For this purpose, you can leverage the code below:
+Sometimes, I find it useful to see the topic correlation.
 
 ![](samples/economist16.png)
 
