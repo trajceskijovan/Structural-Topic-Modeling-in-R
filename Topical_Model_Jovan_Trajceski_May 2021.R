@@ -6,10 +6,6 @@
 # Clear up data in global environment
 rm(list=ls())
 
-# Set Working Directory
-# You need to change this path to your desired folder please!  
-setwd(".dir")
-
 # Run and load Libraries
 library(topicmodels)
 library(lda)
@@ -30,7 +26,6 @@ library(rsvd)
 library(geometry)
 library(NLP)
 library(ldatuning) 
-
 
 
 # Load data from csv file
